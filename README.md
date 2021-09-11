@@ -3,6 +3,6 @@ Flutter Fashion Week App UI and Project Structure.
 
 
 <img src="https://imgur.com/a2RjIub.gif" width="300" />
-<img src="https://imgur.com/PbJcGC4.gif" width="300" />
+<img src="https://imgur.com/TFiDrxC.gif" width="300" />
 <img src="https://imgur.com/LhSymXX.gif" width="300" />
 <img src="https://imgur.com/rE4shhj.png" />
